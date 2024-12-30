@@ -4,7 +4,8 @@ The aim of this project is to identify single and multiple hands through skeleto
 
 ## Methodology
 ### Single hand gesture recognition
-![image](https://github.com/user-attachments/assets/dab373ec-80f9-4e99-a81d-4f7f3d29d481)
+![image](https://github.com/user-attachments/assets/164114ee-6c35-46c0-884d-0007a902bc4a)
+
 #### Image thresholding
 For every pixel, the same threshold value is applied. If the pixel value is smaller than the threshold, it is set to 0, otherwise it is set to a maximum value.
 
